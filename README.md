@@ -1,1 +1,1 @@
-# practical_tasks_semester1
+# Практические задания за 1 семестр
